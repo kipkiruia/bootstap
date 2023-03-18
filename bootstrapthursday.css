@@ -1,0 +1,28 @@
+form{
+  padding: 60px;
+  margin-right: 300px;
+  margin-left: 300px;
+  margin-top: 30px;
+  background-color:white;
+
+}
+input[type="text"]{
+  width: 100%;
+}
+legend{
+  font-size:30px;
+}
+body{
+  background-color: coral;
+  background-image: url("image,boots_files");
+  
+}
+input[type="send"] {
+  background-color: blue;
+  width: 100%;
+  font-style: normal;text-align: center;
+  text-decoration-color: white;
+}
+textarea{
+  width: 100%;
+}
